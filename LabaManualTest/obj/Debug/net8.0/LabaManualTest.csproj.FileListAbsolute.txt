@@ -1,0 +1,14 @@
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaManualTest/obj/Debug/net8.0/LabaManualTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaManualTest/obj/Debug/net8.0/LabaManualTest.AssemblyInfoInputs.cache
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaManualTest/obj/Debug/net8.0/LabaManualTest.AssemblyInfo.cs
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaManualTest/obj/Debug/net8.0/LabaManualTest.csproj.CoreCompileInputs.cache
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaManualTest/bin/Debug/net8.0/LabaManualTest
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaManualTest/bin/Debug/net8.0/LabaManualTest.deps.json
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaManualTest/bin/Debug/net8.0/LabaManualTest.runtimeconfig.json
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaManualTest/bin/Debug/net8.0/LabaManualTest.dll
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaManualTest/bin/Debug/net8.0/LabaManualTest.pdb
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaManualTest/obj/Debug/net8.0/LabaManualTest.dll
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaManualTest/obj/Debug/net8.0/refint/LabaManualTest.dll
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaManualTest/obj/Debug/net8.0/LabaManualTest.pdb
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaManualTest/obj/Debug/net8.0/LabaManualTest.genruntimeconfig.cache
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaManualTest/obj/Debug/net8.0/ref/LabaManualTest.dll

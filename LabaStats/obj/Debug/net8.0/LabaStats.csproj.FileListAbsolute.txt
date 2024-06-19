@@ -1,0 +1,14 @@
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaStats/bin/Debug/net8.0/LabaStats
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaStats/bin/Debug/net8.0/LabaStats.deps.json
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaStats/bin/Debug/net8.0/LabaStats.runtimeconfig.json
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaStats/bin/Debug/net8.0/LabaStats.dll
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaStats/bin/Debug/net8.0/LabaStats.pdb
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaStats/obj/Debug/net8.0/LabaStats.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaStats/obj/Debug/net8.0/LabaStats.AssemblyInfoInputs.cache
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaStats/obj/Debug/net8.0/LabaStats.AssemblyInfo.cs
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaStats/obj/Debug/net8.0/LabaStats.csproj.CoreCompileInputs.cache
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaStats/obj/Debug/net8.0/LabaStats.dll
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaStats/obj/Debug/net8.0/refint/LabaStats.dll
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaStats/obj/Debug/net8.0/LabaStats.pdb
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaStats/obj/Debug/net8.0/LabaStats.genruntimeconfig.cache
+/Users/aleksandrkirilov/RiderProjects/Laba/LabaStats/obj/Debug/net8.0/ref/LabaStats.dll
